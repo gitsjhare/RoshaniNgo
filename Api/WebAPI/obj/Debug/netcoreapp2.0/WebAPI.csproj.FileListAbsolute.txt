@@ -1,0 +1,15 @@
+/media/sujit/softwares/RoshaniNgo/Api/WebAPI/bin/Debug/netcoreapp2.0/WebAPI.deps.json
+/media/sujit/softwares/RoshaniNgo/Api/WebAPI/bin/Debug/netcoreapp2.0/WebAPI.runtimeconfig.json
+/media/sujit/softwares/RoshaniNgo/Api/WebAPI/bin/Debug/netcoreapp2.0/WebAPI.runtimeconfig.dev.json
+/media/sujit/softwares/RoshaniNgo/Api/WebAPI/bin/Debug/netcoreapp2.0/WebAPI.dll
+/media/sujit/softwares/RoshaniNgo/Api/WebAPI/bin/Debug/netcoreapp2.0/WebAPI.pdb
+/media/sujit/softwares/RoshaniNgo/Api/WebAPI/obj/Debug/netcoreapp2.0/WebAPI.csproj.CoreCompileInputs.cache
+/media/sujit/softwares/RoshaniNgo/Api/WebAPI/obj/Debug/netcoreapp2.0/WebAPI.AssemblyInfoInputs.cache
+/media/sujit/softwares/RoshaniNgo/Api/WebAPI/obj/Debug/netcoreapp2.0/WebAPI.AssemblyInfo.cs
+/media/sujit/softwares/RoshaniNgo/Api/WebAPI/obj/Debug/netcoreapp2.0/WebAPI.dll
+/media/sujit/softwares/RoshaniNgo/Api/WebAPI/obj/Debug/netcoreapp2.0/WebAPI.pdb
+E:\RoshaniNgo\Api\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.deps.json
+E:\RoshaniNgo\Api\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.runtimeconfig.json
+E:\RoshaniNgo\Api\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.runtimeconfig.dev.json
+E:\RoshaniNgo\Api\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.csprojResolveAssemblyReference.cache
+E:\RoshaniNgo\Api\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.AssemblyInfo.cs
